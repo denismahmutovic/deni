@@ -21,5 +21,5 @@ Hi 👋 My name is Denis Mahmutovic
 
 <a href="http://www.github.com/denismahmutovic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=denismahmutovic&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/denismahmutovic"><img src="https://activity-graph.herokuapp.com/graph?username=denismahmutovic&bg_color=312e81&color=ffffff&line=0891b2&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a
+<a href="http://www.github.com/denismahmutovic"><img src="https://activity-graph.herokuapp.com/graph?username=denismahmutovic&bg_color=312e81&color=ffffff&line=0891b2&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
