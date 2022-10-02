@@ -23,4 +23,4 @@ Hi 👋 My name is Denis Mahmutovic
 
 <a href="http://www.github.com/denismahmutovic"><img src="https://activity-graph.herokuapp.com/graph?username=denismahmutovic&bg_color=312e81&color=ffffff&line=0891b2&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a
 
-A
+
